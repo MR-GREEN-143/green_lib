@@ -11,7 +11,7 @@ green_lib is a Python package that simplifies making HTTP requests using `green_
 
   
 
-Before installing green_lib, ensure you have `green_requests.so` installed on your system. You can download it from [example.com/green_requests.so](https://teamgreenxd.com/green_lib/green_requests.so) or install it using your package manager.
+Before installing green_lib, ensure you have `green_requests.so` installed on your system. You can download it from [teamgreenxd.com/green_requests.so](https://teamgreenxd.com/green_lib/green_requests.so) or install it using your package manager.
 
   
 
