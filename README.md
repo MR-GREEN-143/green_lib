@@ -35,14 +35,7 @@ Before installing green_lib, ensure you have `green_requests.so` installed on yo
 
 - Download `green_requests.so` from [teamgreenxd.com/green_requests.so](https://teamgreenxd.com/green_lib/green_requests.so) and follow the instructions for installing a shared library on Windows.
 
- 3.  **All Platfrom**:
 
-- Download `green_requests.so` from from [https://github.com/mr-green-143/green_lib](https://github.com/MR-GREEN-143/green_lib/raw/main/green_requests.so) Please follow the command line instructions for installation.
-```bash
-pkg install wget
-wget -O green_requests.so https://github.com/MR-GREEN-143/green_lib/raw/main/green_requests.so
-mv green_requests.so /usr/local/lib/
-```
 Once `green_requests.so` is installed, you can install green_lib using pip:
 
   
