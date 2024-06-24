@@ -48,4 +48,4 @@ Once `green_requests.so` is installed, you can install green_lib using pip:
 
 ```bash
 
-pip  install  green_lib
+pip install green_lib
